@@ -1,2 +1,2 @@
 My first readme.
-This is my first manual update on Github.com.
+Manual update on Github.com.
